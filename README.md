@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TanzinNeha
-- 👀 I’m interested in ..nothing cz interest keep changing.
-- 🌱 I’m currently learning .html css..
-- 💞️ I’m looking to collaborate on ..microsoft.
+- 👀 I’m interested in Web Designing.
+- 🌱 I’m currently learning HTML5, CSS3 & Bootstrap4 For Web Development.
+- 💞️ I’m looking to collaborate on any Web Development company.
 - 📫 How to reach me ..no need to.
 
 <!---
